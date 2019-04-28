@@ -1,2 +1,2 @@
 # Odrive
-Odrive ::minidisc:
+Odrive :minidisc:
