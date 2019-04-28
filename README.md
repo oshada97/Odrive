@@ -1,2 +1,2 @@
 # Odrive
-Odrive:smirk:
+Odrive ::minidisc:
